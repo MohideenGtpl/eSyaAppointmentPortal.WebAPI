@@ -1,0 +1,16 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.runtimeconfig.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.runtimeconfig.dev.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.IF.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\bin\Release\netcoreapp2.2\eSyaAppointmentPortal.IF.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.csprojAssemblyReference.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.csproj.CopyComplete
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaAppointmentPortal.WebAPI\trunk\eSyaAppointmentPortal.DL\obj\Release\netcoreapp2.2\eSyaAppointmentPortal.DL.pdb
